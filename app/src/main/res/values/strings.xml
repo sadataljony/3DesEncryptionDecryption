@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">3Des Encryption Decryption</string>
+    <string name="enter_key">Enter Key</string>
+    <string name="enter_plain_text">Enter plain text</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="result">Result</string>
+    <string name="rhksjfc98798273khfksjdhf">RHKSJFC98798273KHFKSJDHF</string>
+    <string name="_1234">1234</string>
+    <string name="enter_encrypt_text">Enter Encrypt Text</string>
+</resources>
